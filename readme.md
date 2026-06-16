@@ -1,6 +1,6 @@
 # Volve Field Time-to-Depth Prediction: Machine Learning vs. Geophysical Baseline
 
-This repository implements a production-grade, modular Python pipeline designed to analyze geological well pick data from the Volve Field and predict **Two-Way Travel Time (TWT)**. The project directly explores the intersection of traditional geophysical physical formulations and predictive Machine Learning regression architectures.
+This repository analyzes geological well pick data from the Volve Field to predict **Two-Way Travel Time (TWT)**. It compares traditional geophysical formulations with Machine Learning regression models.
 
 ## Dataset
 
