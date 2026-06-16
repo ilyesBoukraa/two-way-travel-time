@@ -1,0 +1,9 @@
+=== PHASE 2: PREDICTIVE MODELING TO PREDICT TWT ===
+Evaluating Performance Matrix:
+Model Name                | R2 Score   | RMSE (ms)  | MAE (ms)  
+-----------------------------------------------------------------
+Linear Regression         | 0.9988     | 30.0598    | 21.5482   
+Random Forest Regressor   | 0.9984     | 34.0675    | 19.7087   
+XGBoost Regressor         | 0.9991     | 25.9258    | 14.4412   
+Physical Formula (2Z/V)   | 0.9779     | 126.6816   | 99.1032   
+-----------------------------------------------------------------
